@@ -1,0 +1,40 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(29, 29, 29);
+}
+#texto{
+    color: #b42828;
+}
+
+#Div{
+    margin: auto;
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#si{
+    position: absolute;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+#nam{
+    position: absolute;
+    padding: 10px 20px;
+    background-color: #b42828;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
